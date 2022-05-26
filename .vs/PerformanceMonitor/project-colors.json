@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "feff9cab-a862-4cba-b40b-8e27818badb3": {
+      "ProjectGuid": "feff9cab-a862-4cba-b40b-8e27818badb3",
+      "DisplayName": "PerformanceMonitor",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "b2f44b78-e34d-4888-8a34-37b0237aa9fe": {
+      "ProjectGuid": "b2f44b78-e34d-4888-8a34-37b0237aa9fe",
+      "DisplayName": "CpuUsage",
+      "ColorIndex": 1
+    },
+    "df560c58-c086-4ce6-ae25-655a00e7889c": {
+      "ProjectGuid": "df560c58-c086-4ce6-ae25-655a00e7889c",
+      "DisplayName": "CPU",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
